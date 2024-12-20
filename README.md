@@ -21,5 +21,5 @@ This is a single-page e-commerce application built using **React**. The applicat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yeasinmiah1272001/sinngle-page-task.git
+   git clone https://github.com/shahin-alom82/single-page-task.git
    ```
