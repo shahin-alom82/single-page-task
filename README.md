@@ -3,5 +3,3 @@ This is a single-page e-commerce application built using **React**. The applicat
 ## Live Demo
 [View Live Application](https://sinngle-page-task.vercel.app/)
 
-git clone https://github.com/yeasinmiah1272001/sinngle-page-task.git
-
